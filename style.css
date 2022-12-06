@@ -27,6 +27,7 @@ header h1 {
   letter-spacing: 1.6px;
   text-align: center;
   margin-top: 3rem;
+  margin-bottom: 3rem;
 }
 form {
   display: flex;
